@@ -1,0 +1,15 @@
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.DAL\bin\Debug\netcoreapp3.1\PMS.DAL.deps.json
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.DAL\bin\Debug\netcoreapp3.1\PMS.DAL.dll
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.DAL\bin\Debug\netcoreapp3.1\PMS.DAL.pdb
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.DAL\bin\Debug\netcoreapp3.1\PMS.Entity.dll
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.DAL\bin\Debug\netcoreapp3.1\PMS.Exceptions.dll
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.DAL\bin\Debug\netcoreapp3.1\PMS.Entity.pdb
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.DAL\bin\Debug\netcoreapp3.1\PMS.Exceptions.pdb
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.DAL\obj\Debug\netcoreapp3.1\PMS.DAL.csproj.AssemblyReference.cache
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.DAL\obj\Debug\netcoreapp3.1\PMS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.DAL\obj\Debug\netcoreapp3.1\PMS.DAL.AssemblyInfoInputs.cache
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.DAL\obj\Debug\netcoreapp3.1\PMS.DAL.AssemblyInfo.cs
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.DAL\obj\Debug\netcoreapp3.1\PMS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.DAL\obj\Debug\netcoreapp3.1\PMS.DAL.dll
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.DAL\obj\Debug\netcoreapp3.1\PMS.DAL.pdb
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.DAL\bin\Debug\netcoreapp3.1\PMS.DAL.dll.config

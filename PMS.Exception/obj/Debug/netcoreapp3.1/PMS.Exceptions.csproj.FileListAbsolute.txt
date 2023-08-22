@@ -1,0 +1,9 @@
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.Exception\bin\Debug\netcoreapp3.1\PMS.Exceptions.deps.json
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.Exception\bin\Debug\netcoreapp3.1\PMS.Exceptions.dll
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.Exception\bin\Debug\netcoreapp3.1\PMS.Exceptions.pdb
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.Exception\obj\Debug\netcoreapp3.1\PMS.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.Exception\obj\Debug\netcoreapp3.1\PMS.Exceptions.AssemblyInfoInputs.cache
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.Exception\obj\Debug\netcoreapp3.1\PMS.Exceptions.AssemblyInfo.cs
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.Exception\obj\Debug\netcoreapp3.1\PMS.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.Exception\obj\Debug\netcoreapp3.1\PMS.Exceptions.dll
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.Exception\obj\Debug\netcoreapp3.1\PMS.Exceptions.pdb

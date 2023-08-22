@@ -1,0 +1,10 @@
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.Entity\bin\Debug\netcoreapp3.1\PMS.Entity.deps.json
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.Entity\bin\Debug\netcoreapp3.1\PMS.Entity.dll
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.Entity\bin\Debug\netcoreapp3.1\PMS.Entity.pdb
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.Entity\obj\Debug\netcoreapp3.1\PMS.Entity.csproj.AssemblyReference.cache
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.Entity\obj\Debug\netcoreapp3.1\PMS.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.Entity\obj\Debug\netcoreapp3.1\PMS.Entity.AssemblyInfoInputs.cache
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.Entity\obj\Debug\netcoreapp3.1\PMS.Entity.AssemblyInfo.cs
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.Entity\obj\Debug\netcoreapp3.1\PMS.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.Entity\obj\Debug\netcoreapp3.1\PMS.Entity.dll
+C:\Users\Pankaj.PANKAJ-PC\source\repos\Sample\ProductManagementSystem\PMS.Entity\obj\Debug\netcoreapp3.1\PMS.Entity.pdb

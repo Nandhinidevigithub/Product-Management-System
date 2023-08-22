@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PMS.DAL\PMS.DAL.csproj" />
+    <ProjectReference Include="..\PMS.Entity\PMS.Entity.csproj" />
+    <ProjectReference Include="..\PMS.Exception\PMS.Exceptions.csproj" />
+  </ItemGroup>
+
+</Project>

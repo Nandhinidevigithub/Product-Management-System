@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PMS.Exceptions/1.0.0": {
+        "runtime": {
+          "PMS.Exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PMS.Exceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
